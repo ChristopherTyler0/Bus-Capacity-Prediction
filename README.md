@@ -1,5 +1,5 @@
 # Bus-Capacity-Prediction
-##Purpose
+## Purpose
 Over the past year, the University of Florida cut millions of dollars from Regional Transit
 System’s (RTS) annual budget, representing a twenty percent decrease. Additionally, more cuts
 are consistently being proposed. RTS operates bus routes servicing students, faculty, and other
@@ -13,17 +13,17 @@ track of their passenger count, as this would require counting both oncomers and
 Instead, drivers are responsible for checking the IDs of oncoming passengers and pressing a
 button to count each one. 
 
-##Task
+## Task
 Given the count of oncoming passengers, paired with the busses’ 
 previous stop, the goal is to confidently predict the current number of passengers on the
 bus. An accuracte prediction is defined as +/-5% of the known passenger count, and a target accuracy will be 95%.
 A variety of machine learning frameworks and libraries will be tested. Predominantly, I am interested in experimenting with RNNs. 
 
-##Inputs and Outputs
+## Inputs and Outputs
 Input row: 
 Previous stop (Index of stop along the bus's route), Previous estimated passengers (Before stopping at previous stop), Number of oncomers at previous stop
 Output: 
 Predicted number of passengers after stop
 
-##Author
+## Author
 Christopher Tyler- https://www.linkedin.com/in/christopher-tyler-404941227/
