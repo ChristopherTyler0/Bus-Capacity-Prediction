@@ -1,0 +1,115 @@
+busNumber,stopNumber,stopID,prevCapacity,oncomers,stopName,actualCapacity
+33,0,925,12,13,0925 The Hub,15
+33,1,1192,15,5,1192 Turlington Hall,20
+33,2,1193,20,2,1193 Rawlings Hall,19
+33,3,14,19,1,0014 Frazier Rogers Hall,17
+33,4,1194,17,0,1194 Commuter Lot,17
+33,5,477,17,1,0477 Cancer and Genetics Research Complex,18
+33,6,1482,18,0,1482 Lake Alice Conservation Area,18
+33,7,478,18,0,0478 IFAS Lab,18
+33,8,1177,18,0,1177 Fifield Hall,18
+33,9,1179,18,0,1179 Pressly Softball Stadium,18
+33,10,1180,18,3,1180 Southwest Recreation Center,13
+33,11,807,13,0,0807 University Village South,13
+33,12,1181,13,0,1181 UF Orthopeadics Institute,12
+33,13,1480,12,0,1480 Village Point 4,9
+33,14,1486,9,0,1486 Campus Circle Apartments,4
+33,15,813,4,0,0813 Kensington North Apartments,1
+33,16,814,1,0,0814 Pinetree Gardens Apartments,1
+33,17,1271,1,0,1271 Forest Park,1
+33,18,1272,1,0,1272 Southfork Oaks,1
+33,19,1559,1,0,1559 Butler Plaza North,1
+33,20,1493,1,2,1493 Butler Plaza Transfer Station,2
+33,21,1555,2,3,1555 Pod @ Plaza Blvd Eastbound,5
+33,22,1557,5,5,1557 The Ridge @ SW 38th Ter Northbound,10
+33,23,1273,10,3,1273 Sw 38 Ter @ SW 20th Ave,13
+33,24,1484,13,5,1484 Varsity House Apartments,18
+33,25,1483,18,0,1483 Aloft Hotel @ Hull Rd,18
+33,26,1237,18,4,1237 Museum Walk Apartments,22
+33,27,1173,22,6,1173 Cultural Plaza,21
+33,28,1174,21,0,1174 Lacrosse Field,21
+33,29,1176,21,0,1176 Fifield Hall,20
+33,30,466,20,0,0466 IFAS Office and Forestry Field Lab,20
+33,31,1481,20,0,1481 Cancer and Genetics Research Complex,20
+33,32,467,20,1,0467 Cancer and Genetics Research Complex,21
+33,33,468,21,0,0468 UF Parking and Transportation Services,18
+33,34,469,18,1,0469 Commuter Lot Parking Garage 14,14
+33,35,1253,14,0,1253 Graham Hall,14
+33,36,1254,14,0,1254 Gator Corner Dining Facility @ Gale Lemerand,13
+33,37,966,13,1,0966 Weimer Hall College of Journalism,11
+33,0,925,11,16,0925 The Hub,17
+33,1,1192,17,9,1192 Turlington Hall,26
+33,2,1193,26,4,1193 Rawlings Hall,29
+33,3,14,29,0,0014 Frazier Rogers Hall,29
+33,4,1194,29,2,1194 Commuter Lot,27
+33,5,477,27,3,0477 Cancer and Genetics Research Complex,30
+33,6,1482,30,0,1482 Lake Alice Conservation Area,30
+33,7,478,30,0,0478 IFAS Lab,30
+33,8,1177,30,1,1177 Fifield Hall,31
+33,9,1179,30,0,1179 Pressly Softball Stadium,30
+33,10,1180,30,8,1180 Southwest Recreation Center,28
+33,11,807,28,0,0807 University Village South,28
+33,12,1181,28,0,1181 UF Orthopeadics Institute,23
+33,13,1480,23,0,1480 Village Point 4,16
+33,14,1486,16,0,1486 Campus Circle Apartments,9
+33,15,813,9,0,0813 Kensington North Apartments,0
+33,16,814,0,0,0814 Pinetree Gardens Apartments,0
+33,17,1271,0,0,1271 Forest Park,0
+33,18,1272,0,0,1272 Southfork Oaks,0
+33,19,1559,0,0,1559 Butler Plaza North,0
+33,20,1493,0,2,1493 Butler Plaza Transfer Station,2
+33,21,1555,2,1,1555 Pod @ Plaza Blvd Eastbound,3
+33,22,1557,3,8,1557 The Ridge @ SW 38th Ter Northbound,11
+33,23,1273,11,6,1273 Sw 38 Ter @ SW 20th Ave,17
+33,24,1484,17,5,1484 Varsity House Apartments,21
+33,25,1483,21,2,1483 Aloft Hotel @ Hull Rd,23
+33,26,1237,23,1,1237 Museum Walk Apartments,24
+33,27,1173,24,4,1173 Cultural Plaza,21
+33,28,1174,21,2,1174 Lacrosse Field,22
+33,29,1176,22,1,1176 Fifield Hall,23
+33,30,466,23,0,0466 IFAS Office and Forestry Field Lab,23
+33,31,1481,23,0,1481 Cancer and Genetics Research Complex,23
+33,32,467,23,0,0467 Cancer and Genetics Research Complex,23
+33,33,468,23,1,0468 UF Parking and Transportation Services,20
+33,34,469,20,0,0469 Commuter Lot Parking Garage 14,15
+33,35,1253,15,3,1253 Graham Hall,16
+33,36,1254,16,0,1254 Gator Corner Dining Facility @ Gale Lemerand,14
+33,37,966,14,0,0966 Weimer Hall College of Journalism,10
+33,0,925,10,23,0925 The Hub,23
+33,1,1192,23,12,1192 Turlington Hall,35
+33,2,1193,35,5,1193 Rawlings Hall,38
+33,3,14,38,3,0014 Frazier Rogers Hall,38
+33,4,1194,38,2,1194 Commuter Lot,35
+33,5,477,35,3,0477 Cancer and Genetics Research Complex,36
+33,6,1482,36,0,1482 Lake Alice Conservation Area,36
+33,7,478,36,0,0478 IFAS Lab,36
+33,8,1177,36,1,1177 Fifield Hall,34
+33,9,1179,34,0,1179 Pressly Softball Stadium,33
+33,10,1180,33,6,1180 Southwest Recreation Center,31
+33,11,807,31,0,0807 University Village South,31
+33,12,1181,31,0,1181 UF Orthopeadics Institute,26
+33,13,1480,26,1,1480 Village Point 4,19
+33,14,1486,19,0,1486 Campus Circle Apartments,11
+33,15,813,11,0,0813 Kensington North Apartments,1
+33,16,814,1,0,0814 Pinetree Gardens Apartments,1
+33,17,1271,1,1,1271 Forest Park,2
+33,18,1272,2,0,1272 Southfork Oaks,2
+33,19,1559,2,1,1559 Butler Plaza North,3
+33,20,1493,3,2,1493 Butler Plaza Transfer Station,2
+33,21,1555,2,3,1555 Pod @ Plaza Blvd Eastbound,5
+33,22,1557,5,7,1557 The Ridge @ SW 38th Ter Northbound,12
+33,23,1273,12,6,1273 Sw 38 Ter @ SW 20th Ave,17
+33,24,1484,17,2,1484 Varsity House Apartments,19
+33,25,1483,19,3,1483 Aloft Hotel @ Hull Rd,21
+33,26,1237,21,2,1237 Museum Walk Apartments,23
+33,27,1173,23,3,1173 Cultural Plaza,19
+33,28,1174,19,2,1174 Lacrosse Field,21
+33,29,1176,21,0,1176 Fifield Hall,19
+33,30,466,19,0,0466 IFAS Office and Forestry Field Lab,19
+33,31,1481,19,0,1481 Cancer and Genetics Research Complex,19
+33,32,467,19,0,0467 Cancer and Genetics Research Complex,17
+33,33,468,17,0,0468 UF Parking and Transportation Services,14
+33,34,469,14,2,0469 Commuter Lot Parking Garage 14,13
+33,35,1253,13,0,1253 Graham Hall,10
+33,36,1254,10,0,1254 Gator Corner Dining Facility @ Gale Lemerand,10
+33,37,966,10,0,0966 Weimer Hall College of Journalism,6
