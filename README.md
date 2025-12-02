@@ -25,5 +25,7 @@ Previous stop (Index of stop along the bus's route), Previous estimated passenge
 Output: 
 Predicted number of passengers after stop
 
+## Running
+To train the model and generate the accuracy, run model.py after installing the requirements from requirements.txt
 ## Author
 Christopher Tyler- https://www.linkedin.com/in/christopher-tyler-404941227/
